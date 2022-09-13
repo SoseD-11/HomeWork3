@@ -3,7 +3,7 @@ public class Main {
         var boxerWeight1 = 78.2;
         var boxerWeight2 = 82.7;
         var totalWeight = boxerWeight1 + boxerWeight2;
-        System.out.println("Общий вес двух бойцов - " + totalWeight + " кг");
+        System.out.println("Общий вес двух бойцов - " + totalWeight + " кг!");
         var weightDifference = boxerWeight2 - boxerWeight1;
         System.out.println("Разница между весами бойцов - " + weightDifference + " кг!");
         var substractionMethod = boxerWeight2 - boxerWeight1;
